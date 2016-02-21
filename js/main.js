@@ -76,7 +76,10 @@ $(document).on('ready', function(){
       "shipping-method": "please enter your preffered method for shipping.",
       "expiry-month": "Please select a month.",
       "shipping-method": "Please enter your preferred shipping method.",
-      "comments": "Must be less than 500 characters",
+      "comments": "Must be less than 500 characters.",
+      "card-holder-name": "Please enter the full name on your card.",
+      "card-number": "Please enter 16 digit credit card number.",
+      "cvv": "Please enter 3 digit code on the back of your card.",
     },
 
   });
